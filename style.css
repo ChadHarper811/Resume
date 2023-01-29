@@ -29,10 +29,14 @@ li {
   display: table;
 }
 
+h1 {
+  margin-bottom: -10px; 
+}
+
 h2 {
   background-color: rgba( 100, 100, 100, 0.8);
   border-top: white solid;
-  border-bottom: white solid;  
+  border-bottom: white solid;
 }
 
 .grid-container {
@@ -56,4 +60,8 @@ Text-align:right
   margin-top: 0px;
   margin-bottom: 0px;
   text-align: left;
+}
+
+.intro {
+  Margin-bottom: -10px;
 }
