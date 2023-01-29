@@ -53,7 +53,7 @@ Text-align:right
 
 .Section-Exp p {
   text-decoration: underline;
-  margin-top: -1px;
+  margin-top: 0px;
   margin-bottom: -1px;
   text-align: left;
 }
