@@ -54,6 +54,6 @@ Text-align:right
 .Section-Exp p {
   text-decoration: underline;
   margin-top: 0px;
-  margin-bottom: -1px;
+  margin-bottom: 0px;
   text-align: left;
 }
